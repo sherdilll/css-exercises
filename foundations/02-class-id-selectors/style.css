@@ -1,0 +1,19 @@
+.same {
+  background-color: rgb(255, 128, 128);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#single {
+  color: blue;
+  font-size: 36px;
+}
+
+.name {
+  font-size: 24px;
+}
+
+#double {
+  background-color: hsl(120, 100%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
